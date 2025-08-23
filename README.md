@@ -60,12 +60,12 @@ This repository is owned and maintained by **NearDevs**.
 
 ## License Terms
 
-**Copyright (c) 2025 NearDevs**
+**Copyright (c) 2025 Citymoon Dynamics**
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this repository (the “Software”), to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, **provided that** the following conditions are met:
 
 1. **Attribution Requirement:**  
-   Every copy or substantial portion of the Software **must include proper credit** to **NearDevs** as the original owner.  
+   Every copy or substantial portion of the Software **must include proper credit** to **Citymoon Dynamics** as the original owner.  
    *Example attribution:*  
    > "Original repository by NearDevs"  
    This statement should be clearly displayed in documentation, user interfaces, or any materials where the Software is used or distributed.
